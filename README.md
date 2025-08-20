@@ -30,12 +30,12 @@ Portfolio/
 s. Install dependencies:
    ```bash
    npm install
-   # or
+   # or 
    yarn install
    ```
 
 4. Start the development server:
-   ```bash
+   ```bash fffyg
    npm run dev
    # or
    yarn dev
