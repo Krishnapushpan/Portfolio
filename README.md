@@ -27,7 +27,7 @@ Portfolio/
    cd Frontend
    ```
 
-3. Install dependencies:
+s. Install dependencies:
    ```bash
    npm install
    # or
