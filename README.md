@@ -5,10 +5,6 @@ This is a personal portfolio website showcasing my work, skills, and experience.
 
 ## Project Structure
 ```
-Portfolio/
-  ├── Frontend/        # Frontend application
-  └── README.md        # Project documentation
-```
 
 ## Getting Started
 
